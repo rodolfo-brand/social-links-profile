@@ -78,5 +78,5 @@ color: hsl(0, 0%, 8%);
 
 @media (min-width: 400px) {
     .container {
-        min-width: 350px; }
+        min-width: 320px; }
     }
