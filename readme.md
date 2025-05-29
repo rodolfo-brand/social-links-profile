@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-profile-page-IFoXHBl4Ro)
-- Live Site URL: [Add live site URL here](https://rodolfo-brand.github.io/social-links-profile/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-profile-page-IFoXHBl4Ro)
+- Live Site URL: [LiveSite](https://rodolfo-brand.github.io/social-links-profile/)
 
 ---
 
