@@ -35,7 +35,7 @@ body {
     height: 88px;
     border-radius: 50%;
     object-fit: cover;
-    margin-bottom: 24px;
+    margin:24px 24px 24px 24px;
 }
 
 .city {
@@ -57,10 +57,9 @@ body {
     align-items: center;
 }
 
-.links {
-    margin-bottom: 16px; 
+.links {   
     padding: 15px 20px;
-    width: 250px;
+    width: 240px;
     background-color: hsl(0, 0%, 20%);
     color: hsl(0, 0%, 100%);
     font-size: 14px;
@@ -69,9 +68,15 @@ body {
     border-radius: 8px;
     cursor: pointer;
     text-align: center;
+    margin: 0px 18px 18px 18px;
 }
 
 button:hover {
 background-color: hsl(75, 94%, 57%);
 color: hsl(0, 0%, 8%);
 }
+
+@media (min-width: 400px) {
+    .container {
+        min-width: 350px; }
+    }

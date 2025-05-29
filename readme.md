@@ -59,7 +59,7 @@ During this project, I focused on solidifying my understanding of **CSS Flexbox*
 * The importance of **semantic HTML** for better accessibility and overall code structure.
 * **Importing custom fonts** using `@font-face` for a more personalized design.
 
-One key improvement I made was moving from `<br>` tags to using **CSS `gap` property** within a flex container (`.links-container`) for spacing between buttons. This approach is much cleaner and provides more control over the layout.
+I also learned how to effectively manage **responsive container width** by combining `max-width` with a `min-width` applied conditionally via a **media query**. This allows the container to shrink gracefully on very small screens while ensuring a minimum width on larger displays.
 
 ### Continued development
 
